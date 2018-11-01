@@ -1,2 +1,2 @@
 # TestKraken
-Test repoitory for Git integration
+Test repository for Git integration
